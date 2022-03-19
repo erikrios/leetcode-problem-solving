@@ -5,41 +5,33 @@ import "fmt"
 func main() {
 	fmt.Println(maxArea([]int{1, 8, 6, 2, 5, 4, 8, 3, 7}))
 	fmt.Println(maxArea([]int{1, 1}))
-	fmt.Println(maxArea([]int{1, 5, 1}))
+	fmt.Println(maxArea([]int{4, 5, 1}))
+	fmt.Println(maxArea([]int{1, 2, 4, 3}))
+	fmt.Println(maxArea([]int{2, 3, 4, 5, 18, 17, 6}))
 }
 
 func maxArea(height []int) int {
-	left := 0
-	right := len(height) - 1
+	i, j := 0, len(height)-1
+	var max int
 
-	var minHeightIndex int
-	if height[left] < height[right] {
-		minHeightIndex = left
-	} else {
-		minHeightIndex = right
-	}
-
-	max := height[minHeightIndex] * (right - left)
-
-	for (height[left] < height[left+1] || height[right] < height[right-1]) && left+1 < right-1 {
-		if height[left] < height[left+1] {
-			left++
-		}
-
-		if height[right] < height[right-1] {
-			right--
-		}
-
-		if height[left] < height[right] {
-			minHeightIndex = left
+	for i < j {
+		var minIndex int
+		if height[i] < height[j] {
+			minIndex = i
 		} else {
-			minHeightIndex = right
+			minIndex = j
 		}
 
-		area := height[minHeightIndex] * (right - left)
+		area := height[minIndex] * (j - i)
 
-		if area > max {
+		if max < area {
 			max = area
+		}
+
+		if height[i] < height[j] {
+			i++
+		} else {
+			j--
 		}
 	}
 
