@@ -1,6 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"sort"
+)
 
 func main() {
 	fmt.Println(threeSum([]int{-1, 0, 1, 2, -1, -4}))
@@ -8,43 +11,33 @@ func main() {
 }
 
 func threeSum(nums []int) [][]int {
-	result := make([][]int, 0)
+	n := len(nums)
 
-	mapper := make(map[int][]int)
+	// Sort the given array
+	sort.Ints(nums)
 
-	uniqueChecker := make(map[string]bool)
+	var result [][]int
+	for num1Idx := 0; num1Idx < n-2; num1Idx++ {
+		if num1Idx > 0 && nums[num1Idx] == nums[num1Idx-1] {
+			continue
+		}
 
-	for i := 0; i < len(nums); i++ {
-		mapper[nums[i]] = append(mapper[nums[i]], i)
-	}
+		num2Idx := num1Idx + 1
+		num3Idx := n - 1
+		for num2Idx < num3Idx {
+			sum := nums[num2Idx] + nums[num3Idx] + nums[num1Idx]
+			if sum == 0 {
+				result = append(result, []int{nums[num1Idx], nums[num2Idx], nums[num3Idx]})
 
-	for i := 0; i < len(nums)-2; i++ {
-		for j := i + 1; j < len(nums)-1; j++ {
-			target := (nums[i] + nums[j]) * -1
-			if v, ok := mapper[target]; ok {
-				for _, val := range v {
-					if val > j {
-						a, b, c := nums[i], nums[j], target
-						if a > c {
-							a, c = c, a
-						}
-						if a > b {
-							a, b = b, a
-						}
-						if b > c {
-							b, c = c, b
-						}
+				num3Idx--
 
-						res := []int{a, b, c}
-						check := fmt.Sprintf("%v", res)
-
-						if _, ok := uniqueChecker[check]; !ok {
-							result = append(result, res)
-							uniqueChecker[check] = true
-						}
-						break
-					}
+				for num2Idx < num3Idx && nums[num3Idx] == nums[num3Idx+1] {
+					num3Idx--
 				}
+			} else if sum > 0 {
+				num3Idx--
+			} else {
+				num2Idx++
 			}
 		}
 	}
