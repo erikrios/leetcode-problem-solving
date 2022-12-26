@@ -42,6 +42,7 @@ func (this *MinStack) Push(val int) {
 }
 
 func (this *MinStack) Pop() {
+	delete(this.min, len(this.items))
 	this.items = this.items[:len(this.items)-1]
 }
 
