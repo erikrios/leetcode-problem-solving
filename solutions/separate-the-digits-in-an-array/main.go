@@ -2,7 +2,6 @@ package main
 
 import (
 	"fmt"
-	"strconv"
 )
 
 func main() {
@@ -15,15 +14,15 @@ func separateDigits(nums []int) []int {
 
 	for i := 0; i < len(nums); i++ {
 		num := nums[i]
-		if num < 10 {
-			results = append(results, num)
-			continue
+
+		temp := make([]int, 0)
+		for num > 0 {
+			temp = append(temp, num%10)
+			num /= 10
 		}
 
-		vStr := strconv.Itoa(num)
-		for j := 0; j < len(vStr); j++ {
-			vNum := vStr[j]
-			results = append(results, int(vNum-'0'))
+		for j := len(temp) - 1; j >= 0; j-- {
+			results = append(results, temp[j])
 		}
 	}
 
