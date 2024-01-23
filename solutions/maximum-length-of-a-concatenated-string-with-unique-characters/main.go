@@ -18,56 +18,58 @@ func main() {
 }
 
 func maxLength(arr []string) int {
-	subsets := backtrack(arr, make([]string, 0), 0)
+	return backtrack(arr, make(map[byte]struct{}), 0)
+}
+
+// Backtracking algorithm
+func backtrack(arr []string, charSet map[byte]struct{}, i int) int {
+	n := len(arr)
+	if i == n {
+		return len(charSet)
+	}
+
+	str := arr[i]
+
 	var max int
-
-loop:
-	for i := 0; i < len(subsets); i++ {
-		subset := subsets[i]
-		charSet := make(map[byte]struct{})
-
-		for j := 0; j < len(subset); j++ {
-			sub := subset[j]
-			for k := 0; k < len(sub); k++ {
-				char := sub[k]
-				if _, ok := charSet[char]; ok {
-					continue loop
-				}
-				charSet[char] = struct{}{}
-			}
+	if isUnique(charSet, str) {
+		// Take
+		for i := 0; i < len(str); i++ {
+			char := str[i]
+			charSet[char] = struct{}{}
 		}
 
-		length := len(charSet)
-		if length > max {
-			max = length
+		max = backtrack(arr, charSet, i+1)
+
+		for i := 0; i < len(str); i++ {
+			char := str[i]
+			delete(charSet, char)
 		}
+	}
+
+	// Not take
+	val := backtrack(arr, charSet, i+1)
+	if val > max {
+		return val
 	}
 
 	return max
 }
 
-// Backtracking algorithm
-func backtrack(arr, subset []string, i int) [][]string {
-	n := len(arr)
-	if i == n {
-		subsetCopy := make([]string, len(subset))
-		copy(subsetCopy, subset)
-		return [][]string{subsetCopy}
+func isUnique(charSet map[byte]struct{}, str string) bool {
+	curSet := make(map[byte]struct{})
+
+	for i := 0; i < len(str); i++ {
+		char := str[i]
+
+		_, charSetOk := charSet[char]
+		_, curSetOk := curSet[char]
+
+		if charSetOk || curSetOk {
+			return false
+		}
+
+		curSet[char] = struct{}{}
 	}
 
-	str := arr[i]
-
-	results := make([][]string, 0)
-
-	// Take
-	subset = append(subset, str)
-	res := backtrack(arr, subset, i+1)
-	results = append(results, res...)
-
-	// Not take
-	subset = subset[:len(subset)-1]
-	res = backtrack(arr, subset, i+1)
-	results = append(results, res...)
-
-	return results
+	return true
 }
