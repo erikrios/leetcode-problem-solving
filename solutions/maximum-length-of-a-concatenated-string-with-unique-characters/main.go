@@ -1,6 +1,8 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func main() {
 	fmt.Println(maxLength([]string{"un", "iq", "ue"}))
@@ -12,49 +14,60 @@ func main() {
 	fmt.Println(maxLength([]string{"z", "chgtccakarmgp", "ieyfhzxtcczjhs", "i", "kxowcdbynshauqikgg", "aklbjxkczzjiqldciekn", "cvabiynubojuwa", "ctmszammcjwdkyigd", "vswykwxueeo", "ua", "rmwest", "jmjivmbnoexaat", "obbar", "cyek", "vvfxooaacpxdjzsstzbn", "t"}))
 	fmt.Println(maxLength([]string{"aa", "bb"}))
 	fmt.Println(maxLength([]string{"abc", "def", "bp", "dq", "eg", "fh"}))
+	fmt.Println(maxLength([]string{"a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p"}))
 }
 
 func maxLength(arr []string) int {
-	return backtrack(arr, make(map[byte]struct{}), 0)
+	subsets := backtrack(arr, make([]string, 0), 0)
+	var max int
+
+loop:
+	for i := 0; i < len(subsets); i++ {
+		subset := subsets[i]
+		charSet := make(map[byte]struct{})
+
+		for j := 0; j < len(subset); j++ {
+			sub := subset[j]
+			for k := 0; k < len(sub); k++ {
+				char := sub[k]
+				if _, ok := charSet[char]; ok {
+					continue loop
+				}
+				charSet[char] = struct{}{}
+			}
+		}
+
+		length := len(charSet)
+		if length > max {
+			max = length
+		}
+	}
+
+	return max
 }
 
-func backtrack(arr []string, charSet map[byte]struct{}, i int) int {
-	if i == len(arr) {
-		return len(charSet)
+// Backtracking algorithm
+func backtrack(arr, subset []string, i int) [][]string {
+	n := len(arr)
+	if i == n {
+		subsetCopy := make([]string, len(subset))
+		copy(subsetCopy, subset)
+		return [][]string{subsetCopy}
 	}
 
-	var res int
-	if !overlap(charSet, arr[i]) {
-		for j := 0; j < len(arr[i]); j++ {
-			charSet[arr[i][j]] = struct{}{}
-		}
-		res = backtrack(arr, charSet, i+1)
-		for j := 0; j < len(arr[i]); j++ {
-			delete(charSet, arr[i][j])
-		}
-	}
-	val := backtrack(arr, charSet, i+1)
+	str := arr[i]
 
-	if val > res {
-		return val
-	}
+	results := make([][]string, 0)
 
-	return res
-}
+	// Take
+	subset = append(subset, str)
+	res := backtrack(arr, subset, i+1)
+	results = append(results, res...)
 
-func overlap(charSet map[byte]struct{}, str string) bool {
-	prev := make(map[byte]struct{})
+	// Not take
+	subset = subset[:len(subset)-1]
+	res = backtrack(arr, subset, i+1)
+	results = append(results, res...)
 
-	for i := 0; i < len(str); i++ {
-		char := str[i]
-		_, charSetOk := charSet[char]
-		_, prevOk := prev[char]
-
-		if charSetOk || prevOk {
-			return true
-		}
-		prev[char] = struct{}{}
-	}
-
-	return false
+	return results
 }
