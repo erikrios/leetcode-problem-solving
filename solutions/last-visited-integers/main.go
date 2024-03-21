@@ -2,25 +2,23 @@ package main
 
 import (
 	"fmt"
-	"strconv"
 )
 
 func main() {
-	fmt.Println(lastVisitedIntegers([]string{"1", "2", "prev", "prev", "prev"}))
-	fmt.Println(lastVisitedIntegers([]string{"1", "prev", "2", "prev", "prev"}))
-	fmt.Println(lastVisitedIntegers([]string{"prev", "prev", "94", "56", "prev", "32", "prev", "prev", "prev"}))
+	fmt.Println(lastVisitedIntegers([]int{1, 2, -1, -1, -1}))
+	fmt.Println(lastVisitedIntegers([]int{1, -1, 2, -1, -1}))
+	fmt.Println(lastVisitedIntegers([]int{-1, -1, 94, 56, -1, 32, -1, -1, -1}))
 }
 
-func lastVisitedIntegers(words []string) []int {
+func lastVisitedIntegers(words []int) []int {
 	results := make([]int, 0)
 	bucket := make([]int, 0)
 	var conPrev int
 
 	for i := 0; i < len(words); i++ {
 		word := words[i]
-		if word != "prev" {
-			num, _ := strconv.Atoi(word)
-			bucket = append(bucket, num)
+		if word != -1 {
+			bucket = append(bucket, word)
 			conPrev = 0
 		} else {
 			conPrev++
