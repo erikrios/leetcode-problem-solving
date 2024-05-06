@@ -5,3 +5,4 @@ There are the lists of problems:
 - 3sum
 - 3sum-closest
 - add-binary
+- add-digits
