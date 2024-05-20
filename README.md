@@ -9,3 +9,4 @@ There are the lists of problems:
 - add-digits
 - add-two-integers
 - addtwonumbers
+- all-elements-in-two-binary-search-trees
