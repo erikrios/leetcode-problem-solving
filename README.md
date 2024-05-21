@@ -10,3 +10,4 @@ There are the lists of problems:
 - add-two-integers
 - addtwonumbers
 - all-elements-in-two-binary-search-trees
+- alternating-digit-sum
