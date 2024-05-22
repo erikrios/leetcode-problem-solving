@@ -11,3 +11,4 @@ There are the lists of problems:
 - addtwonumbers
 - all-elements-in-two-binary-search-trees
 - alternating-digit-sum
+- amount-of-time-for-binary-tree-to-be-infected
