@@ -12,3 +12,4 @@ There are the lists of problems:
 - all-elements-in-two-binary-search-trees
 - alternating-digit-sum
 - amount-of-time-for-binary-tree-to-be-infected
+- ant-on-the-boundary
