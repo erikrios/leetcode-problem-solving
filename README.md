@@ -14,3 +14,4 @@ There are the lists of problems:
 - amount-of-time-for-binary-tree-to-be-infected
 - ant-on-the-boundary
 - apple-redistribution-into-boxes
+- apply-operations-to-an-array
