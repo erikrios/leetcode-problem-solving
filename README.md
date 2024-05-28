@@ -15,3 +15,4 @@ There are the lists of problems:
 - ant-on-the-boundary
 - apple-redistribution-into-boxes
 - apply-operations-to-an-array
+- arithmetic-slices-ii-subsequence
