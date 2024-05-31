@@ -1,0 +1,6 @@
+[package]
+name = "check-if-every-row-and-column-contains-all-numbers"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
