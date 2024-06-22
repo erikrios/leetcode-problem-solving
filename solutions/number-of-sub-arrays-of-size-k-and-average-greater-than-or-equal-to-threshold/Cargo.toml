@@ -1,0 +1,6 @@
+[package]
+name = "number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
