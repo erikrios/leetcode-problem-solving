@@ -1,0 +1,6 @@
+[package]
+name = "count-triplets-that-can-form-two-arrays-of-equal-xor"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
