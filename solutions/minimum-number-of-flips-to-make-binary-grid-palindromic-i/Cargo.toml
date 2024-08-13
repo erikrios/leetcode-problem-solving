@@ -1,0 +1,6 @@
+[package]
+name = "minimum-number-of-flips-to-make-binary-grid-palindromic-i"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
