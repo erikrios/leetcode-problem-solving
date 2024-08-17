@@ -1,5 +1,3 @@
-use std::collections::BTreeMap;
-
 fn main() {
     println!(
         "{}",
@@ -17,64 +15,21 @@ struct Solution;
 
 impl Solution {
     pub fn max_distance(arrays: Vec<Vec<i32>>) -> i32 {
-        let mut map = BTreeMap::new();
+        let mut res = i32::MIN;
+        let mut min = arrays[0][0];
+        let mut max = arrays[0][arrays[0].len() - 1];
 
-        for (i, array) in arrays.iter().enumerate() {
-            let min = array[0];
-            let max = array[array.len() - 1];
+        for array in arrays.iter().skip(1) {
+            let cur_min = array[0];
+            let cur_max = array[array.len() - 1];
 
-            map.entry(min)
-                .and_modify(|x: &mut Vec<usize>| x.push(i))
-                .or_insert(vec![i]);
+            res = std::cmp::max(res, (cur_max - min).abs());
+            res = std::cmp::max(res, (max - cur_min).abs());
 
-            map.entry(max)
-                .and_modify(|x: &mut Vec<usize>| x.push(i))
-                .or_insert(vec![i]);
+            min = std::cmp::min(min, cur_min);
+            max = std::cmp::max(max, cur_max);
         }
 
-        struct Str {
-            k: i32,
-            v: Vec<usize>,
-        }
-
-        let mut strs = Vec::with_capacity(map.len());
-
-        for (k, v) in map {
-            strs.push(Str { k, v })
-        }
-
-        for i in 0..strs.len() / 2 {
-            let fwd = &strs[i];
-            let bwd = &strs[strs.len() - 1 - i];
-
-            if fwd.v.len() == 1 && bwd.v.len() == 1 && fwd.v[0] == bwd.v[0] {
-                let mut max = i32::MIN;
-
-                if i + 1 < strs.len() {
-                    let next_fwd = &strs[i + 1];
-                    let res = (bwd.k - next_fwd.k).abs();
-                    if res > max {
-                        max = res;
-                    }
-                }
-                if i as i32 >= 0 {
-                    let prev_bwd = &strs[strs.len() - 1 - i - 1];
-                    let res = (prev_bwd.k - fwd.k).abs();
-                    if res > max {
-                        max = res;
-                    }
-                }
-
-                if max == i32::MIN {
-                    continue;
-                }
-
-                return max;
-            }
-
-            return (bwd.k - fwd.k).abs();
-        }
-
-        0
+        res
     }
 }
