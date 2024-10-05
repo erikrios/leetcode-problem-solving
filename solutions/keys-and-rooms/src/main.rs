@@ -28,17 +28,18 @@ impl Solution {
         }
 
         while !rooms_id.is_empty() {
-            let ids: Vec<usize> = rooms_id.iter().copied().collect();
             let mut opened_count = 0;
-            for room in ids {
+
+            rooms_id.retain(|&room| {
                 if room == 0 || keys.contains(&room) {
                     for &founded_key in &rooms[room] {
                         keys.insert(founded_key as usize);
                     }
-                    rooms_id.remove(&room);
                     opened_count += 1;
+                    return false;
                 }
-            }
+                true
+            });
 
             if opened_count == 0 {
                 return false;
