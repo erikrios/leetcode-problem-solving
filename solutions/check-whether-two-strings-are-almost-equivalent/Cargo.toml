@@ -1,0 +1,6 @@
+[package]
+name = "check-whether-two-strings-are-almost-equivalent"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
