@@ -1,0 +1,6 @@
+[package]
+name = "display-table-of-food-orders-in-a-restaurant"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
