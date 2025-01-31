@@ -16,3 +16,4 @@ There are the lists of problems:
 - apple-redistribution-into-boxes
 - apply-operations-to-an-array
 - arithmetic-slices-ii-subsequence
+- arithmetic-subarrays
