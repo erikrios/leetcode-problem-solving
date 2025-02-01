@@ -17,3 +17,4 @@ There are the lists of problems:
 - apply-operations-to-an-array
 - arithmetic-slices-ii-subsequence
 - arithmetic-subarrays
+- array-partition
