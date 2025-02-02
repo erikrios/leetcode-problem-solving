@@ -18,3 +18,5 @@ There are the lists of problems:
 - arithmetic-slices-ii-subsequence
 - arithmetic-subarrays
 - array-partition
+- assign-cookies
+
