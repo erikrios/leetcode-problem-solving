@@ -19,4 +19,4 @@ There are the lists of problems:
 - arithmetic-subarrays
 - array-partition
 - assign-cookies
-
+- available-captures-for-rook
