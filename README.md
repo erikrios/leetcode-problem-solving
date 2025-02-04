@@ -20,3 +20,4 @@ There are the lists of problems:
 - array-partition
 - assign-cookies
 - available-captures-for-rook
+- average-of-levels-in-binary-tree
