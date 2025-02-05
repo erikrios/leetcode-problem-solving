@@ -21,3 +21,4 @@ There are the lists of problems:
 - assign-cookies
 - available-captures-for-rook
 - average-of-levels-in-binary-tree
+- average-salary-excluding-the-minimum-and-maximum-salary
