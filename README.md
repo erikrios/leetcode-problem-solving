@@ -22,3 +22,4 @@ There are the lists of problems:
 - available-captures-for-rook
 - average-of-levels-in-binary-tree
 - average-salary-excluding-the-minimum-and-maximum-salary
+- balance-a-binary-search-tree
