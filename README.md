@@ -23,3 +23,4 @@ There are the lists of problems:
 - average-of-levels-in-binary-tree
 - average-salary-excluding-the-minimum-and-maximum-salary
 - balance-a-binary-search-tree
+- balanced-binary-tree
