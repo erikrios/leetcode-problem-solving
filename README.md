@@ -25,3 +25,4 @@ There are the lists of problems:
 - balance-a-binary-search-tree
 - balanced-binary-tree
 - baseball-game
+- battleships-in-a-board
