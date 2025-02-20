@@ -26,3 +26,4 @@ There are the lists of problems:
 - balanced-binary-tree
 - baseball-game
 - battleships-in-a-board
+- best-sightseeing-pair
