@@ -27,3 +27,4 @@ There are the lists of problems:
 - baseball-game
 - battleships-in-a-board
 - best-sightseeing-pair
+- best-time-to-buy-and-sell-stock
