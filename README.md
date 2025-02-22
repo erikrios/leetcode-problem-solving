@@ -28,3 +28,4 @@ There are the lists of problems:
 - battleships-in-a-board
 - best-sightseeing-pair
 - best-time-to-buy-and-sell-stock
+- binary-gap
