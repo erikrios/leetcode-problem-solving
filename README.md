@@ -29,3 +29,4 @@ There are the lists of problems:
 - best-sightseeing-pair
 - best-time-to-buy-and-sell-stock
 - binary-gap
+- binary-number-with-alternating-bits
