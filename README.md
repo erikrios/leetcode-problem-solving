@@ -31,3 +31,4 @@ There are the lists of problems:
 - binary-gap
 - binary-number-with-alternating-bits
 - binary-search
+- binary-search-tree-iterator
