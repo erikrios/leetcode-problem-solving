@@ -32,3 +32,4 @@ There are the lists of problems:
 - binary-number-with-alternating-bits
 - binary-search
 - binary-search-tree-iterator
+- binary-search-tree-to-greater-sum-tree
