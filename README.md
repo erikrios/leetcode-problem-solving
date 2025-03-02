@@ -36,3 +36,4 @@ There are the lists of problems:
 - binary-tree-inorder-traversal
 - binary-tree-paths
 - binary-tree-postorder-traversal
+- binary-tree-preorder-traversal
