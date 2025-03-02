@@ -35,3 +35,4 @@ There are the lists of problems:
 - binary-search-tree-to-greater-sum-tree
 - binary-tree-inorder-traversal
 - binary-tree-paths
+- binary-tree-postorder-traversal
