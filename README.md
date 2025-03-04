@@ -37,3 +37,4 @@ There are the lists of problems:
 - binary-tree-paths
 - binary-tree-postorder-traversal
 - binary-tree-preorder-traversal
+- binary-tree-pruning
