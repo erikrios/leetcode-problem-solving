@@ -41,3 +41,4 @@ There are the lists of problems:
 - binary-tree-tilt
 - bitwise-and-of-numbers-range
 - build-an-array-with-stack-operations
+- build-array-from-permutation
