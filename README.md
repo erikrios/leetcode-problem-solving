@@ -43,3 +43,4 @@ There are the lists of problems:
 - build-an-array-with-stack-operations
 - build-array-from-permutation
 - buy-two-chocolates
+- calculate-amount-paid-in-taxes
