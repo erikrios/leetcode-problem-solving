@@ -44,3 +44,4 @@ There are the lists of problems:
 - build-array-from-permutation
 - buy-two-chocolates
 - calculate-amount-paid-in-taxes
+- calculate-delayed-arrival-time
