@@ -46,3 +46,4 @@ There are the lists of problems:
 - calculate-amount-paid-in-taxes
 - calculate-delayed-arrival-time
 - calculate-digit-sum-of-a-string
+- calculate-money-in-leetcode-bank
