@@ -47,3 +47,4 @@ There are the lists of problems:
 - calculate-delayed-arrival-time
 - calculate-digit-sum-of-a-string
 - calculate-money-in-leetcode-bank
+- can-make-arithmetic-progression-from-sequence
