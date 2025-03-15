@@ -48,3 +48,4 @@ There are the lists of problems:
 - calculate-digit-sum-of-a-string
 - calculate-money-in-leetcode-bank
 - can-make-arithmetic-progression-from-sequence
+- capitalize-the-title
