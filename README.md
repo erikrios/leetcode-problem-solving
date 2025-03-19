@@ -52,3 +52,4 @@ There are the lists of problems:
 - cells-in-a-range-on-an-excel-sheet
 - cells-with-odd-values-in-a-matrix
 - check-balanced-string
+- check-distances-between-same-letters
