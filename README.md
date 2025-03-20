@@ -53,3 +53,4 @@ There are the lists of problems:
 - cells-with-odd-values-in-a-matrix
 - check-balanced-string
 - check-distances-between-same-letters
+- check-if-a-string-contains-all-binary-codes-of-size-k
