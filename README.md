@@ -54,3 +54,4 @@ There are the lists of problems:
 - check-balanced-string
 - check-distances-between-same-letters
 - check-if-a-string-contains-all-binary-codes-of-size-k
+- check-if-a-string-is-an-acronym-of-words
