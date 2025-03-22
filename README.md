@@ -55,3 +55,4 @@ There are the lists of problems:
 - check-distances-between-same-letters
 - check-if-a-string-contains-all-binary-codes-of-size-k
 - check-if-a-string-is-an-acronym-of-words
+- check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentenc
