@@ -57,3 +57,4 @@ There are the lists of problems:
 - check-if-a-string-is-an-acronym-of-words
 - check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence
 - check-if-all-as-appears-before-all-bs
+- check-if-all-characters-have-equal-number-of-occurrences
