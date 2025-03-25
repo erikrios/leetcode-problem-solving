@@ -58,3 +58,4 @@ There are the lists of problems:
 - check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence
 - check-if-all-as-appears-before-all-bs
 - check-if-all-characters-have-equal-number-of-occurrences
+- check-if-array-is-sorted-and-rotated
