@@ -62,3 +62,4 @@ There are the lists of problems:
 - check-if-array-pairs-are-divisible-by-k
 - check-if-bitwise-or-has-trailing-zeros
 - check-if-every-row-and-column-contains-all-numbers
+- check-if-matrix-is-x-matrix
