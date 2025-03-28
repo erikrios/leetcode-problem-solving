@@ -61,3 +61,4 @@ There are the lists of problems:
 - check-if-array-is-sorted-and-rotated
 - check-if-array-pairs-are-divisible-by-k
 - check-if-bitwise-or-has-trailing-zeros
+- check-if-every-row-and-column-contains-all-numbers
