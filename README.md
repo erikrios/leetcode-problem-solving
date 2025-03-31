@@ -64,3 +64,4 @@ There are the lists of problems:
 - check-if-every-row-and-column-contains-all-numbers
 - check-if-matrix-is-x-matrix
 - check-if-n-and-its-double-exist
+- check-if-number-has-equal-digit-count-and-digit-value
