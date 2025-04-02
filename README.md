@@ -66,3 +66,4 @@ There are the lists of problems:
 - check-if-n-and-its-double-exist
 - check-if-number-has-equal-digit-count-and-digit-value
 - check-if-numbers-are-ascending-in-a-sentence
+- check-if-one-string-swap-can-make-strings-equal
