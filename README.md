@@ -68,3 +68,4 @@ There are the lists of problems:
 - check-if-numbers-are-ascending-in-a-sentence
 - check-if-one-string-swap-can-make-strings-equal
 - check-if-the-sentence-is-pangram
+- check-if-two-chessboard-squares-have-the-same-color
