@@ -69,3 +69,4 @@ There are the lists of problems:
 - check-if-one-string-swap-can-make-strings-equal
 - check-if-the-sentence-is-pangram
 - check-if-two-chessboard-squares-have-the-same-color
+- check-if-two-string-arrays-are-equivalent
