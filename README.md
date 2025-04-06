@@ -70,3 +70,4 @@ There are the lists of problems:
 - check-if-the-sentence-is-pangram
 - check-if-two-chessboard-squares-have-the-same-color
 - check-if-two-string-arrays-are-equivalent
+- check-if-word-equals-summation-of-two-words
