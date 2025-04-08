@@ -72,3 +72,4 @@ There are the lists of problems:
 - check-if-two-string-arrays-are-equivalent
 - check-if-word-equals-summation-of-two-words
 - check-whether-two-strings-are-almost-equivalent
+- circular-sentence
