@@ -73,3 +73,4 @@ There are the lists of problems:
 - check-if-word-equals-summation-of-two-words
 - check-whether-two-strings-are-almost-equivalent
 - circular-sentence
+- clear-digits
