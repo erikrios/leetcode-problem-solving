@@ -74,3 +74,4 @@ There are the lists of problems:
 - check-whether-two-strings-are-almost-equivalent
 - circular-sentence
 - clear-digits
+- climbing-stairs
