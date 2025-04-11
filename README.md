@@ -75,3 +75,4 @@ There are the lists of problems:
 - circular-sentence
 - clear-digits
 - climbing-stairs
+- concatenation-of-array
