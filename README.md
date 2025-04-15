@@ -79,3 +79,4 @@ There are the lists of problems:
 - construct-binary-search-tree-from-preorder-traversal
 - construct-k-palindrome-strings
 - construct-quad-tree
+- construct-smallest-number-from-di-string
