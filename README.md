@@ -80,3 +80,4 @@ There are the lists of problems:
 - construct-k-palindrome-strings
 - construct-quad-tree
 - construct-smallest-number-from-di-string
+- construct-string-from-binary-tree
