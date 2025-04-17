@@ -81,3 +81,4 @@ There are the lists of problems:
 - construct-quad-tree
 - construct-smallest-number-from-di-string
 - construct-string-from-binary-tree
+- construct-the-minimum-bitwise-array-i
