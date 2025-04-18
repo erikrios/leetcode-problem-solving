@@ -83,3 +83,4 @@ There are the lists of problems:
 - construct-string-from-binary-tree
 - construct-the-minimum-bitwise-array-i
 - container-with-most-water
+- contains-duplicate
