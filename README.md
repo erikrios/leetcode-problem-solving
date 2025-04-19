@@ -84,3 +84,4 @@ There are the lists of problems:
 - construct-the-minimum-bitwise-array-i
 - container-with-most-water
 - contains-duplicate
+- contiguous-array
