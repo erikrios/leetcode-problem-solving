@@ -87,3 +87,4 @@ There are the lists of problems:
 - contiguous-array
 - continuous-subarray-sum
 - convert-1d-array-into-2d-array
+- convert-an-array-into-a-2d-array-with-conditions
