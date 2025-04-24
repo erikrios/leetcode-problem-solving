@@ -88,3 +88,4 @@ There are the lists of problems:
 - continuous-subarray-sum
 - convert-1d-array-into-2d-array
 - convert-an-array-into-a-2d-array-with-conditions
+- convert-binary-number-in-a-linked-list-to-integer
