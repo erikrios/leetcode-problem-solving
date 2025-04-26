@@ -91,3 +91,4 @@ There are the lists of problems:
 - convert-binary-number-in-a-linked-list-to-integer
 - convert-date-to-binary
 - convert-sorted-array-to-binary-search-tree
+- convert-sorted-list-to-binary-search-tree
