@@ -90,3 +90,4 @@ There are the lists of problems:
 - convert-an-array-into-a-2d-array-with-conditions
 - convert-binary-number-in-a-linked-list-to-integer
 - convert-date-to-binary
+- convert-sorted-array-to-binary-search-tree
