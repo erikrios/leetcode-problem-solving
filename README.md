@@ -92,3 +92,4 @@ There are the lists of problems:
 - convert-date-to-binary
 - convert-sorted-array-to-binary-search-tree
 - convert-sorted-list-to-binary-search-tree
+- convert-the-temperature
