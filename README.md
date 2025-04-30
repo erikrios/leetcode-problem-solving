@@ -94,3 +94,4 @@ There are the lists of problems:
 - convert-sorted-list-to-binary-search-tree
 - convert-the-temperature
 - count-asterisks
+- count-binary-substrings
