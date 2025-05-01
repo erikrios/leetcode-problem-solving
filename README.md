@@ -95,3 +95,4 @@ There are the lists of problems:
 - convert-the-temperature
 - count-asterisks
 - count-binary-substrings
+- count-common-words-with-one-occurrence
