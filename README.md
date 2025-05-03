@@ -98,3 +98,4 @@ There are the lists of problems:
 - count-common-words-with-one-occurrence
 - count-complete-tree-nodes
 - count-elements-with-maximum-frequency
+- count-equal-and-divisible-pairs-in-an-array
