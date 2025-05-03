@@ -97,3 +97,4 @@ There are the lists of problems:
 - count-binary-substrings
 - count-common-words-with-one-occurrence
 - count-complete-tree-nodes
+- count-elements-with-maximum-frequency
