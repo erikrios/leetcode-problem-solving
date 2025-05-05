@@ -99,3 +99,4 @@ There are the lists of problems:
 - count-complete-tree-nodes
 - count-elements-with-maximum-frequency
 - count-equal-and-divisible-pairs-in-an-array
+- count-good-nodes-in-binary-tree
