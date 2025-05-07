@@ -101,3 +101,4 @@ There are the lists of problems:
 - count-equal-and-divisible-pairs-in-an-array
 - count-good-nodes-in-binary-tree
 - count-good-triplets
+- count-integers-with-even-digit-sum
