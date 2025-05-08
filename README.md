@@ -102,3 +102,4 @@ There are the lists of problems:
 - count-good-nodes-in-binary-tree
 - count-good-triplets
 - count-integers-with-even-digit-sum
+- count-items-matching-a-rule
