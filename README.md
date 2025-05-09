@@ -103,3 +103,4 @@ There are the lists of problems:
 - count-good-triplets
 - count-integers-with-even-digit-sum
 - count-items-matching-a-rule
+- count-largest-group
