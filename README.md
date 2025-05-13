@@ -104,3 +104,4 @@ There are the lists of problems:
 - count-integers-with-even-digit-sum
 - count-items-matching-a-rule
 - count-largest-group
+- count-negative-numbers-in-a-sorted-matrix
