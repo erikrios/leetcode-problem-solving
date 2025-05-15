@@ -106,3 +106,4 @@ There are the lists of problems:
 - count-largest-group
 - count-negative-numbers-in-a-sorted-matrix
 - count-nodes-equal-to-average-of-subtree
+- count-number-of-bad-pairs
