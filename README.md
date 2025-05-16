@@ -107,3 +107,4 @@ There are the lists of problems:
 - count-negative-numbers-in-a-sorted-matrix
 - count-nodes-equal-to-average-of-subtree
 - count-number-of-bad-pairs
+- count-number-of-distinct-integers-after-reverse-operations
