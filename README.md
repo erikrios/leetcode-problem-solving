@@ -108,3 +108,4 @@ There are the lists of problems:
 - count-nodes-equal-to-average-of-subtree
 - count-number-of-bad-pairs
 - count-number-of-distinct-integers-after-reverse-operations
+- count-number-of-maximum-bitwise-or-subsets
