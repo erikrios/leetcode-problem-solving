@@ -110,3 +110,4 @@ There are the lists of problems:
 - count-number-of-distinct-integers-after-reverse-operations
 - count-number-of-maximum-bitwise-or-subsets
 - count-number-of-nice-subarrays
+- count-number-of-pairs-with-absolute-difference-k
