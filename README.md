@@ -112,3 +112,4 @@ There are the lists of problems:
 - count-number-of-nice-subarrays
 - count-number-of-pairs-with-absolute-difference-k
 - count-of-matches-in-tournament
+- count-of-substrings-containing-every-vowel-and-k-consonants-i
