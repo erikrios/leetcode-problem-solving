@@ -114,3 +114,4 @@ There are the lists of problems:
 - count-of-matches-in-tournament
 - count-of-substrings-containing-every-vowel-and-k-consonants-i
 - count-operations-to-obtain-zero
+- count-pairs-of-similar-strings
