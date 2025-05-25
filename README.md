@@ -115,3 +115,4 @@ There are the lists of problems:
 - count-of-substrings-containing-every-vowel-and-k-consonants-i
 - count-operations-to-obtain-zero
 - count-pairs-of-similar-strings
+- count-pairs-that-form-a-complete-day-i
