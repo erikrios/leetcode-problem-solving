@@ -116,3 +116,4 @@ There are the lists of problems:
 - count-operations-to-obtain-zero
 - count-pairs-of-similar-strings
 - count-pairs-that-form-a-complete-day-i
+- count-pairs-whose-sum-is-less-than-target
