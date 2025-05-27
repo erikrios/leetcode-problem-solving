@@ -117,3 +117,4 @@ There are the lists of problems:
 - count-pairs-of-similar-strings
 - count-pairs-that-form-a-complete-day-i
 - count-pairs-whose-sum-is-less-than-target
+- count-partitions-with-even-sum-difference
