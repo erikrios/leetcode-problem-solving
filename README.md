@@ -120,3 +120,4 @@ There are the lists of problems:
 - count-partitions-with-even-sum-difference
 - count-prefix-and-suffix-pairs-i
 - count-prefixes-of-a-given-string
+- count-servers-that-communicate
