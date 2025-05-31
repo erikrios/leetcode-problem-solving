@@ -121,3 +121,4 @@ There are the lists of problems:
 - count-prefix-and-suffix-pairs-i
 - count-prefixes-of-a-given-string
 - count-servers-that-communicate
+- count-sorted-vowel-strings
