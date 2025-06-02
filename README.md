@@ -123,3 +123,4 @@ There are the lists of problems:
 - count-servers-that-communicate
 - count-sorted-vowel-strings
 - count-square-submatrices-with-all-ones
+- count-square-sum-triples
