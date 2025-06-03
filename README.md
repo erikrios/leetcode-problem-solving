@@ -124,3 +124,4 @@ There are the lists of problems:
 - count-sorted-vowel-strings
 - count-square-submatrices-with-all-ones
 - count-square-sum-triples
+- count-sub-islands
