@@ -126,3 +126,4 @@ There are the lists of problems:
 - count-square-sum-triples
 - count-sub-islands
 - count-substrings-that-satisfy-k-constraint-i
+- count-symmetric-integers
