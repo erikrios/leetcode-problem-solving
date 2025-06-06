@@ -127,3 +127,4 @@ There are the lists of problems:
 - count-sub-islands
 - count-substrings-that-satisfy-k-constraint-i
 - count-symmetric-integers
+- count-tested-devices-after-test-operations
