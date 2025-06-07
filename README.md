@@ -128,3 +128,4 @@ There are the lists of problems:
 - count-substrings-that-satisfy-k-constraint-i
 - count-symmetric-integers
 - count-tested-devices-after-test-operations
+- count-the-digits-that-divide-a-number
