@@ -129,3 +129,4 @@ There are the lists of problems:
 - count-symmetric-integers
 - count-tested-devices-after-test-operations
 - count-the-digits-that-divide-a-number
+- count-the-number-of-consistent-strings
