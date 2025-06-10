@@ -131,3 +131,4 @@ There are the lists of problems:
 - count-the-digits-that-divide-a-number
 - count-the-number-of-consistent-strings
 - count-the-number-of-special-characters-i
+- count-the-number-of-vowel-strings-in-range
