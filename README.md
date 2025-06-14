@@ -135,3 +135,4 @@ There are the lists of problems:
 - count-triplets-that-can-form-two-arrays-of-equal-xor
 - count-unguarded-cells-in-the-grid
 - count-vowel-strings-in-ranges
+- count-vowel-substrings-of-a-string
