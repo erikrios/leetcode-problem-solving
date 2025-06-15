@@ -137,3 +137,4 @@ There are the lists of problems:
 - count-vowel-strings-in-ranges
 - count-vowel-substrings-of-a-string
 - counting-bits
+- counting-words-with-a-given-prefix
