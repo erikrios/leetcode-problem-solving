@@ -138,3 +138,4 @@ There are the lists of problems:
 - count-vowel-substrings-of-a-string
 - counting-bits
 - counting-words-with-a-given-prefix
+- crawler-log-folder
