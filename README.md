@@ -140,3 +140,4 @@ There are the lists of problems:
 - counting-words-with-a-given-prefix
 - crawler-log-folder
 - create-binary-tree-from-descriptions
+- create-target-array-in-the-given-order
