@@ -141,3 +141,4 @@ There are the lists of problems:
 - crawler-log-folder
 - create-binary-tree-from-descriptions
 - create-target-array-in-the-given-order
+- custom-sort-string
