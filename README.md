@@ -142,3 +142,4 @@ There are the lists of problems:
 - create-binary-tree-from-descriptions
 - create-target-array-in-the-given-order
 - custom-sort-string
+- daily-temperatures
