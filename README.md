@@ -143,3 +143,4 @@ There are the lists of problems:
 - create-target-array-in-the-given-order
 - custom-sort-string
 - daily-temperatures
+- decode-the-message
