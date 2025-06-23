@@ -144,3 +144,4 @@ There are the lists of problems:
 - custom-sort-string
 - daily-temperatures
 - decode-the-message
+- decode-xored-array
