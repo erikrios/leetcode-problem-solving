@@ -145,3 +145,4 @@ There are the lists of problems:
 - daily-temperatures
 - decode-the-message
 - decode-xored-array
+- decompress-run-length-encoded-list
