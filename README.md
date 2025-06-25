@@ -146,3 +146,4 @@ There are the lists of problems:
 - decode-the-message
 - decode-xored-array
 - decompress-run-length-encoded-list
+- decrypt-string-from-alphabet-to-integer-mapping
