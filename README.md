@@ -149,3 +149,4 @@ There are the lists of problems:
 - decrypt-string-from-alphabet-to-integer-mapping
 - deepest-leaves-sum
 - defanging-an-ip-address
+- defuse-the-bomb
