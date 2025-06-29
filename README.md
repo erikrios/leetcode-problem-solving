@@ -150,3 +150,4 @@ There are the lists of problems:
 - deepest-leaves-sum
 - defanging-an-ip-address
 - defuse-the-bomb
+- delete-characters-to-make-fancy-string
