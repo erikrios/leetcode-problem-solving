@@ -151,3 +151,4 @@ There are the lists of problems:
 - defanging-an-ip-address
 - defuse-the-bomb
 - delete-characters-to-make-fancy-string
+- delete-columns-to-make-sorted
