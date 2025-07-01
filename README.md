@@ -152,3 +152,4 @@ There are the lists of problems:
 - defuse-the-bomb
 - delete-characters-to-make-fancy-string
 - delete-columns-to-make-sorted
+- delete-greatest-value-in-each-row
