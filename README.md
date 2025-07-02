@@ -153,3 +153,4 @@ There are the lists of problems:
 - delete-characters-to-make-fancy-string
 - delete-columns-to-make-sorted
 - delete-greatest-value-in-each-row
+- delete-leaves-with-a-given-value
