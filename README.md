@@ -154,3 +154,4 @@ There are the lists of problems:
 - delete-columns-to-make-sorted
 - delete-greatest-value-in-each-row
 - delete-leaves-with-a-given-value
+- delete-node-in-a-linked-list
