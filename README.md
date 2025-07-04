@@ -155,3 +155,4 @@ There are the lists of problems:
 - delete-greatest-value-in-each-row
 - delete-leaves-with-a-given-value
 - delete-node-in-a-linked-list
+- delete-nodes-and-return-forest
