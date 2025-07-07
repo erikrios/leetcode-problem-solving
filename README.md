@@ -158,3 +158,4 @@ There are the lists of problems:
 - delete-nodes-and-return-forest
 - delete-nodes-from-linked-list-present-in-array
 - design-a-stack-with-increment-operation
+- design-an-ordered-stream
