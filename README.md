@@ -160,3 +160,4 @@ There are the lists of problems:
 - design-a-stack-with-increment-operation
 - design-an-ordered-stream
 - design-browser-history
+- design-circular-deque
