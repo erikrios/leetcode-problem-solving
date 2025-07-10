@@ -161,3 +161,4 @@ There are the lists of problems:
 - design-an-ordered-stream
 - design-browser-history
 - design-circular-deque
+- design-hashmap
