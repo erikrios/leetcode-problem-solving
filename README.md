@@ -162,3 +162,4 @@ There are the lists of problems:
 - design-browser-history
 - design-circular-deque
 - design-hashmap
+- design-hashset
