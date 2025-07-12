@@ -164,3 +164,4 @@ There are the lists of problems:
 - design-hashmap
 - design-hashset
 - design-neighbor-sum-service
+- design-parking-system
