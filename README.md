@@ -163,3 +163,4 @@ There are the lists of problems:
 - design-circular-deque
 - design-hashmap
 - design-hashset
+- design-neighbor-sum-service
