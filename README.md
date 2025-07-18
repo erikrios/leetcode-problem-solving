@@ -169,3 +169,4 @@ There are the lists of problems:
 - design-underground-system
 - destination-city
 - determine-color-of-a-chessboard-square
+- determine-if-string-halves-are-alike
