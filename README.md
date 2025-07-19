@@ -170,3 +170,4 @@ There are the lists of problems:
 - destination-city
 - determine-color-of-a-chessboard-square
 - determine-if-string-halves-are-alike
+- determine-if-two-strings-are-close
