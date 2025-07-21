@@ -172,3 +172,4 @@ There are the lists of problems:
 - determine-if-string-halves-are-alike
 - determine-if-two-strings-are-close
 - di-string-match
+- diameter-of-binary-tree
