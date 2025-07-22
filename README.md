@@ -173,3 +173,4 @@ There are the lists of problems:
 - determine-if-two-strings-are-close
 - di-string-match
 - diameter-of-binary-tree
+- difference-between-element-sum-and-digit-sum-of-an-array
