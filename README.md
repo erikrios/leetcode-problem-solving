@@ -175,3 +175,4 @@ There are the lists of problems:
 - diameter-of-binary-tree
 - difference-between-element-sum-and-digit-sum-of-an-array
 - difference-between-ones-and-zeros-in-row-and-column
+- different-ways-to-add-parentheses
