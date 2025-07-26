@@ -177,3 +177,4 @@ There are the lists of problems:
 - difference-between-ones-and-zeros-in-row-and-column
 - different-ways-to-add-parentheses
 - display-table-of-food-orders-in-a-restaurant
+- distribute-candies
