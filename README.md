@@ -178,3 +178,4 @@ There are the lists of problems:
 - different-ways-to-add-parentheses
 - display-table-of-food-orders-in-a-restaurant
 - distribute-candies
+- distribute-candies-among-children-i
