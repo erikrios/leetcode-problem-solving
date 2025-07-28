@@ -179,3 +179,4 @@ There are the lists of problems:
 - display-table-of-food-orders-in-a-restaurant
 - distribute-candies
 - distribute-candies-among-children-i
+- distribute-candies-to-people
