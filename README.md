@@ -180,3 +180,4 @@ There are the lists of problems:
 - distribute-candies
 - distribute-candies-among-children-i
 - distribute-candies-to-people
+- distribute-coins-in-binary-tree
