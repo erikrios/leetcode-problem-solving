@@ -181,3 +181,4 @@ There are the lists of problems:
 - distribute-candies-among-children-i
 - distribute-candies-to-people
 - distribute-coins-in-binary-tree
+- distribute-elements-into-two-arrays-i
