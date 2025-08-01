@@ -183,3 +183,4 @@ There are the lists of problems:
 - distribute-coins-in-binary-tree
 - distribute-elements-into-two-arrays-i
 - divide-a-string-into-groups-of-size-k
+- divide-an-array-into-subarrays-with-minimum-cost-i
