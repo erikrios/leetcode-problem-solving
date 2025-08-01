@@ -184,3 +184,4 @@ There are the lists of problems:
 - distribute-elements-into-two-arrays-i
 - divide-a-string-into-groups-of-size-k
 - divide-an-array-into-subarrays-with-minimum-cost-i
+- divide-array-into-arrays-with-max-difference
