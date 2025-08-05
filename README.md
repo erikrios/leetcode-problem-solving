@@ -187,3 +187,4 @@ There are the lists of problems:
 - divide-array-into-arrays-with-max-difference
 - divide-array-into-equal-pairs
 - divide-intervals-into-minimum-number-of-groups
+- divide-players-into-teams-of-equal-skill
