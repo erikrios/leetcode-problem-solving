@@ -188,3 +188,4 @@ There are the lists of problems:
 - divide-array-into-equal-pairs
 - divide-intervals-into-minimum-number-of-groups
 - divide-players-into-teams-of-equal-skill
+- divisible-and-non-divisible-sums-difference
