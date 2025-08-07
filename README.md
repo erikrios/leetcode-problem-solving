@@ -189,3 +189,4 @@ There are the lists of problems:
 - divide-intervals-into-minimum-number-of-groups
 - divide-players-into-teams-of-equal-skill
 - divisible-and-non-divisible-sums-difference
+- divisor-game
