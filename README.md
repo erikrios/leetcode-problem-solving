@@ -190,3 +190,4 @@ There are the lists of problems:
 - divide-players-into-teams-of-equal-skill
 - divisible-and-non-divisible-sums-difference
 - divisor-game
+- double-a-number-represented-as-a-linked-list
