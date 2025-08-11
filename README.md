@@ -193,3 +193,4 @@ There are the lists of problems:
 - double-a-number-represented-as-a-linked-list
 - encode-and-decode-tinyurl
 - evaluate-boolean-binary-tree
+- evaluate-reverse-polish-notation
