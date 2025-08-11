@@ -194,3 +194,4 @@ There are the lists of problems:
 - encode-and-decode-tinyurl
 - evaluate-boolean-binary-tree
 - evaluate-reverse-polish-notation
+- excel-sheet-column-number
