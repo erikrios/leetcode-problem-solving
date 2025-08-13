@@ -195,3 +195,4 @@ There are the lists of problems:
 - evaluate-boolean-binary-tree
 - evaluate-reverse-polish-notation
 - excel-sheet-column-number
+- excel-sheet-column-title
