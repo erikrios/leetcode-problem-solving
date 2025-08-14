@@ -196,3 +196,4 @@ There are the lists of problems:
 - evaluate-reverse-polish-notation
 - excel-sheet-column-number
 - excel-sheet-column-title
+- execution-of-all-suffix-instructions-staying-in-a-grid
