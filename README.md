@@ -199,3 +199,4 @@ There are the lists of problems:
 - execution-of-all-suffix-instructions-staying-in-a-grid
 - existence-of-a-substring-in-a-string-and-its-reverse
 - fair-candy-swap
+- faulty-keyboard
