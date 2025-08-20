@@ -201,3 +201,4 @@ There are the lists of problems:
 - fair-candy-swap
 - faulty-keyboard
 - fibonacci-number
+- final-array-state-after-k-multiplication-operations-i
