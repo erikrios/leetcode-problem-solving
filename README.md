@@ -202,3 +202,4 @@ There are the lists of problems:
 - faulty-keyboard
 - fibonacci-number
 - final-array-state-after-k-multiplication-operations-i
+- final-prices-with-a-special-discount-in-a-shop
