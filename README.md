@@ -203,3 +203,4 @@ There are the lists of problems:
 - fibonacci-number
 - final-array-state-after-k-multiplication-operations-i
 - final-prices-with-a-special-discount-in-a-shop
+- final-value-of-variable-after-performing-operations
