@@ -204,3 +204,4 @@ There are the lists of problems:
 - final-array-state-after-k-multiplication-operations-i
 - final-prices-with-a-special-discount-in-a-shop
 - final-value-of-variable-after-performing-operations
+- find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree
