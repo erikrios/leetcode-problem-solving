@@ -205,3 +205,4 @@ There are the lists of problems:
 - final-prices-with-a-special-discount-in-a-shop
 - final-value-of-variable-after-performing-operations
 - find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree
+- find-all-anagrams-in-a-string
