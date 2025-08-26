@@ -207,3 +207,4 @@ There are the lists of problems:
 - find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree
 - find-all-anagrams-in-a-string
 - find-all-duplicates-in-an-array
+- find-all-groups-of-farmland
