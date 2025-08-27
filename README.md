@@ -208,3 +208,4 @@ There are the lists of problems:
 - find-all-anagrams-in-a-string
 - find-all-duplicates-in-an-array
 - find-all-groups-of-farmland
+- find-all-k-distant-indices-in-an-array
