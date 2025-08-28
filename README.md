@@ -209,3 +209,4 @@ There are the lists of problems:
 - find-all-duplicates-in-an-array
 - find-all-groups-of-farmland
 - find-all-k-distant-indices-in-an-array
+- find-and-replace-pattern
