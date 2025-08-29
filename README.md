@@ -210,3 +210,4 @@ There are the lists of problems:
 - find-all-groups-of-farmland
 - find-all-k-distant-indices-in-an-array
 - find-and-replace-pattern
+- find-bottom-left-tree-value
