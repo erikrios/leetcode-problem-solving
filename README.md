@@ -212,3 +212,4 @@ There are the lists of problems:
 - find-and-replace-pattern
 - find-bottom-left-tree-value
 - find-center-of-star-graph
+- find-champion-i
