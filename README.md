@@ -213,3 +213,4 @@ There are the lists of problems:
 - find-bottom-left-tree-value
 - find-center-of-star-graph
 - find-champion-i
+- find-champion-ii
