@@ -214,3 +214,4 @@ There are the lists of problems:
 - find-center-of-star-graph
 - find-champion-i
 - find-champion-ii
+- find-common-characters
