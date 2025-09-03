@@ -215,3 +215,4 @@ There are the lists of problems:
 - find-champion-i
 - find-champion-ii
 - find-common-characters
+- find-common-elements-between-two-arrays
