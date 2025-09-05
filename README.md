@@ -217,3 +217,4 @@ There are the lists of problems:
 - find-common-characters
 - find-common-elements-between-two-arrays
 - find-elements-in-a-contaminated-binary-tree
+- find-first-and-last-position-of-element-in-sorted-array
