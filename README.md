@@ -218,3 +218,4 @@ There are the lists of problems:
 - find-common-elements-between-two-arrays
 - find-elements-in-a-contaminated-binary-tree
 - find-first-and-last-position-of-element-in-sorted-array
+- find-first-palindromic-string-in-the-array
