@@ -219,3 +219,4 @@ There are the lists of problems:
 - find-elements-in-a-contaminated-binary-tree
 - find-first-and-last-position-of-element-in-sorted-array
 - find-first-palindromic-string-in-the-array
+- find-greatest-common-divisor-of-array
