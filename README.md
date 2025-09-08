@@ -220,3 +220,4 @@ There are the lists of problems:
 - find-first-and-last-position-of-element-in-sorted-array
 - find-first-palindromic-string-in-the-array
 - find-greatest-common-divisor-of-array
+- find-if-array-can-be-sorted
