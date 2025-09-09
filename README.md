@@ -221,3 +221,4 @@ There are the lists of problems:
 - find-first-palindromic-string-in-the-array
 - find-greatest-common-divisor-of-array
 - find-if-array-can-be-sorted
+- find-if-digit-game-can-be-won
