@@ -222,3 +222,4 @@ There are the lists of problems:
 - find-greatest-common-divisor-of-array
 - find-if-array-can-be-sorted
 - find-if-digit-game-can-be-won
+- find-indices-of-stable-mountains
