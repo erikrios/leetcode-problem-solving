@@ -224,3 +224,4 @@ There are the lists of problems:
 - find-if-digit-game-can-be-won
 - find-indices-of-stable-mountains
 - find-kth-bit-in-nth-binary-string
+- find-largest-value-in-each-tree-row
