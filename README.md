@@ -225,3 +225,4 @@ There are the lists of problems:
 - find-indices-of-stable-mountains
 - find-kth-bit-in-nth-binary-string
 - find-largest-value-in-each-tree-row
+- find-lucky-integer-in-an-array
