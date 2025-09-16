@@ -228,3 +228,4 @@ There are the lists of problems:
 - find-lucky-integer-in-an-array
 - find-maximum-number-of-string-pairs
 - find-minimum-operations-to-make-all-elements-divisible-by-three
+- find-missing-and-repeated-values
