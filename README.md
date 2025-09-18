@@ -230,3 +230,4 @@ There are the lists of problems:
 - find-minimum-operations-to-make-all-elements-divisible-by-three
 - find-missing-and-repeated-values
 - find-missing-observations
+- find-n-unique-integers-sum-up-to-zero
