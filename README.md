@@ -231,3 +231,4 @@ There are the lists of problems:
 - find-missing-and-repeated-values
 - find-missing-observations
 - find-n-unique-integers-sum-up-to-zero
+- find-nearest-point-that-has-the-same-x-or-y-coordinate
