@@ -232,3 +232,4 @@ There are the lists of problems:
 - find-missing-observations
 - find-n-unique-integers-sum-up-to-zero
 - find-nearest-point-that-has-the-same-x-or-y-coordinate
+- find-numbers-with-even-number-of-digits
