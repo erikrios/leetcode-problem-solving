@@ -234,3 +234,4 @@ There are the lists of problems:
 - find-nearest-point-that-has-the-same-x-or-y-coordinate
 - find-numbers-with-even-number-of-digits
 - find-occurrences-of-an-element-in-an-array
+- find-players-with-zero-or-one-losses
