@@ -235,3 +235,4 @@ There are the lists of problems:
 - find-numbers-with-even-number-of-digits
 - find-occurrences-of-an-element-in-an-array
 - find-players-with-zero-or-one-losses
+- find-subarrays-with-equal-sum
