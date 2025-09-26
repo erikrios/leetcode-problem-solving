@@ -237,3 +237,4 @@ There are the lists of problems:
 - find-players-with-zero-or-one-losses
 - find-subarrays-with-equal-sum
 - find-subsequence-of-length-k-with-the-largest-sum
+- find-target-indices-after-sorting-array
