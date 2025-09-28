@@ -238,3 +238,4 @@ There are the lists of problems:
 - find-subarrays-with-equal-sum
 - find-subsequence-of-length-k-with-the-largest-sum
 - find-target-indices-after-sorting-array
+- find-the-array-concatenation-value
