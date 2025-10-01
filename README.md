@@ -241,3 +241,4 @@ There are the lists of problems:
 - find-the-array-concatenation-value
 - find-the-difference-of-two-arrays
 - find-the-distance-value-between-two-arrays
+- find-the-distinct-difference-array
