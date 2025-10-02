@@ -242,3 +242,4 @@ There are the lists of problems:
 - find-the-difference-of-two-arrays
 - find-the-distance-value-between-two-arrays
 - find-the-distinct-difference-array
+- find-the-encrypted-string
