@@ -244,3 +244,4 @@ There are the lists of problems:
 - find-the-distinct-difference-array
 - find-the-encrypted-string
 - find-the-highest-altitude
+- find-the-integer-added-to-array-i
