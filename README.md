@@ -245,3 +245,4 @@ There are the lists of problems:
 - find-the-encrypted-string
 - find-the-highest-altitude
 - find-the-integer-added-to-array-i
+- find-the-k-or-of-an-array
