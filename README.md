@@ -247,3 +247,4 @@ There are the lists of problems:
 - find-the-integer-added-to-array-i
 - find-the-k-or-of-an-array
 - find-the-k-th-character-in-string-game-i
+- find-the-key-of-the-numbers
