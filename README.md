@@ -249,3 +249,4 @@ There are the lists of problems:
 - find-the-k-th-character-in-string-game-i
 - find-the-key-of-the-numbers
 - find-the-longest-semi-repetitive-substring
+- find-the-longest-substring-containing-vowels-in-even-counts
