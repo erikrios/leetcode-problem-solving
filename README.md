@@ -250,3 +250,4 @@ There are the lists of problems:
 - find-the-key-of-the-numbers
 - find-the-longest-semi-repetitive-substring
 - find-the-longest-substring-containing-vowels-in-even-counts
+- find-the-maximum-achievable-number
