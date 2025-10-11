@@ -251,3 +251,4 @@ There are the lists of problems:
 - find-the-longest-semi-repetitive-substring
 - find-the-longest-substring-containing-vowels-in-even-counts
 - find-the-maximum-achievable-number
+- find-the-middle-index-in-array
