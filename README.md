@@ -254,3 +254,4 @@ There are the lists of problems:
 - find-the-middle-index-in-array
 - find-the-minimum-and-maximum-number-of-nodes-between-critical-points
 - find-the-minimum-area-to-cover-all-ones-i
+- find-the-number-of-distinct-colors-among-the-balls
