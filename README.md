@@ -255,3 +255,4 @@ There are the lists of problems:
 - find-the-minimum-and-maximum-number-of-nodes-between-critical-points
 - find-the-minimum-area-to-cover-all-ones-i
 - find-the-number-of-distinct-colors-among-the-balls
+- find-the-number-of-good-pairs-i
