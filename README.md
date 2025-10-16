@@ -256,3 +256,4 @@ There are the lists of problems:
 - find-the-minimum-area-to-cover-all-ones-i
 - find-the-number-of-distinct-colors-among-the-balls
 - find-the-number-of-good-pairs-i
+- find-the-original-array-of-prefix-xor
