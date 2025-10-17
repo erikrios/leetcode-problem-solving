@@ -258,3 +258,4 @@ There are the lists of problems:
 - find-the-number-of-good-pairs-i
 - find-the-original-array-of-prefix-xor
 - find-the-original-typed-string-i
+- find-the-peaks
