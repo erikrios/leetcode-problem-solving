@@ -75,6 +75,7 @@ There are the lists of problems:
 - circular-sentence
 - clear-digits
 - climbing-stairs
+- climbing-stairs-ii
 - concatenation-of-array
 - construct-binary-search-tree-from-preorder-traversal
 - construct-k-palindrome-strings
