@@ -261,3 +261,4 @@ There are the lists of problems:
 - find-the-original-typed-string-i
 - find-the-peaks
 - find-the-pivot-integer
+- find-the-prefix-common-array-of-two-arrays
