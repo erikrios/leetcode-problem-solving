@@ -262,3 +262,4 @@ There are the lists of problems:
 - find-the-peaks
 - find-the-pivot-integer
 - find-the-prefix-common-array-of-two-arrays
+- find-the-punishment-number-of-an-integer
