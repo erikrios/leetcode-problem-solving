@@ -265,3 +265,4 @@ There are the lists of problems:
 - find-the-punishment-number-of-an-integer
 - find-the-sequence-of-strings-appeared-on-the-screen
 - find-the-student-that-will-replace-the-chalk
+- find-the-sum-of-encrypted-integers
