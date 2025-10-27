@@ -267,3 +267,4 @@ There are the lists of problems:
 - find-the-student-that-will-replace-the-chalk
 - find-the-sum-of-encrypted-integers
 - find-the-width-of-columns-of-a-grid
+- find-the-winner-of-the-circular-game
