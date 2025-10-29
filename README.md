@@ -268,3 +268,4 @@ There are the lists of problems:
 - find-the-sum-of-encrypted-integers
 - find-the-width-of-columns-of-a-grid
 - find-the-winner-of-the-circular-game
+- find-the-xor-of-numbers-which-appear-twice
