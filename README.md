@@ -269,3 +269,4 @@ There are the lists of problems:
 - find-the-width-of-columns-of-a-grid
 - find-the-winner-of-the-circular-game
 - find-the-xor-of-numbers-which-appear-twice
+- find-total-time-spent-by-each-employee
