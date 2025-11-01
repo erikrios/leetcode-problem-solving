@@ -271,3 +271,4 @@ There are the lists of problems:
 - find-the-xor-of-numbers-which-appear-twice
 - find-total-time-spent-by-each-employee
 - find-triangular-sum-of-an-array
+- find-unique-binary-string
