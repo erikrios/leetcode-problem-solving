@@ -272,3 +272,4 @@ There are the lists of problems:
 - find-total-time-spent-by-each-employee
 - find-triangular-sum-of-an-array
 - find-unique-binary-string
+- find-valid-matrix-given-row-and-column-sums
