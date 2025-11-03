@@ -273,3 +273,4 @@ There are the lists of problems:
 - find-triangular-sum-of-an-array
 - find-unique-binary-string
 - find-valid-matrix-given-row-and-column-sums
+- find-words-containing-character
