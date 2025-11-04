@@ -274,3 +274,4 @@ There are the lists of problems:
 - find-unique-binary-string
 - find-valid-matrix-given-row-and-column-sums
 - find-words-containing-character
+- find-words-that-can-be-formed-by-characters
