@@ -275,3 +275,4 @@ There are the lists of problems:
 - find-valid-matrix-given-row-and-column-sums
 - find-words-containing-character
 - find-words-that-can-be-formed-by-characters
+- find-x-sum-of-all-k-long-subarrays-i
