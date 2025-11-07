@@ -277,3 +277,4 @@ There are the lists of problems:
 - find-words-that-can-be-formed-by-characters
 - find-x-sum-of-all-k-long-subarrays-i
 - finding-3-digit-even-numbers
+- finding-the-users-active-minutes
