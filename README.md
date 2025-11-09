@@ -278,3 +278,4 @@ There are the lists of problems:
 - find-x-sum-of-all-k-long-subarrays-i
 - finding-3-digit-even-numbers
 - finding-the-users-active-minutes
+- first-completely-painted-row-or-column
