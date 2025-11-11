@@ -280,3 +280,4 @@ There are the lists of problems:
 - finding-the-users-active-minutes
 - first-completely-painted-row-or-column
 - first-letter-to-appear-twice
+- first-missing-positive
