@@ -281,3 +281,4 @@ There are the lists of problems:
 - first-completely-painted-row-or-column
 - first-letter-to-appear-twice
 - first-missing-positive
+- first-unique-character-in-a-string
