@@ -282,3 +282,4 @@ There are the lists of problems:
 - first-letter-to-appear-twice
 - first-missing-positive
 - first-unique-character-in-a-string
+- fizz-buzz
