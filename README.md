@@ -283,3 +283,4 @@ There are the lists of problems:
 - first-missing-positive
 - first-unique-character-in-a-string
 - fizz-buzz
+- flatten-binary-tree-to-linked-list
