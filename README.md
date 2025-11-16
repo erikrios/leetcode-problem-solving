@@ -231,6 +231,7 @@ There are the lists of problems:
 - find-minimum-operations-to-make-all-elements-divisible-by-three
 - find-missing-and-repeated-values
 - find-missing-observations
+- find-most-frequent-vowel-and-consonant
 - find-n-unique-integers-sum-up-to-zero
 - find-nearest-point-that-has-the-same-x-or-y-coordinate
 - find-numbers-with-even-number-of-digits
