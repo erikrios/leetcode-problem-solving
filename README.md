@@ -285,3 +285,4 @@ There are the lists of problems:
 - first-unique-character-in-a-string
 - fizz-buzz
 - flatten-binary-tree-to-linked-list
+- flip-columns-for-maximum-number-of-equal-rows
