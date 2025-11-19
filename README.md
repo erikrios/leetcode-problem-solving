@@ -287,3 +287,4 @@ There are the lists of problems:
 - flatten-binary-tree-to-linked-list
 - flip-columns-for-maximum-number-of-equal-rows
 - flip-equivalent-binary-trees
+- flipping-an-image
