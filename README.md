@@ -289,3 +289,4 @@ There are the lists of problems:
 - flip-equivalent-binary-trees
 - flipping-an-image
 - flood-fill
+- fruit-into-baskets
