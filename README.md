@@ -290,3 +290,4 @@ There are the lists of problems:
 - flipping-an-image
 - flood-fill
 - fruit-into-baskets
+- furthest-point-from-origin
