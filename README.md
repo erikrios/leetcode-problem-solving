@@ -291,3 +291,4 @@ There are the lists of problems:
 - flood-fill
 - fruit-into-baskets
 - furthest-point-from-origin
+- generate-a-string-with-characters-that-have-odd-counts
