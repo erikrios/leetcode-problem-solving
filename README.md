@@ -292,3 +292,4 @@ There are the lists of problems:
 - fruit-into-baskets
 - furthest-point-from-origin
 - generate-a-string-with-characters-that-have-odd-counts
+- generate-binary-strings-without-adjacent-zeros
