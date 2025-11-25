@@ -293,3 +293,4 @@ There are the lists of problems:
 - furthest-point-from-origin
 - generate-a-string-with-characters-that-have-odd-counts
 - generate-binary-strings-without-adjacent-zeros
+- generate-parentheses
