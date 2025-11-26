@@ -294,3 +294,4 @@ There are the lists of problems:
 - generate-a-string-with-characters-that-have-odd-counts
 - generate-binary-strings-without-adjacent-zeros
 - generate-parentheses
+- get-equal-substrings-within-budget
