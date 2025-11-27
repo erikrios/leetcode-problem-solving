@@ -295,3 +295,4 @@ There are the lists of problems:
 - generate-binary-strings-without-adjacent-zeros
 - generate-parentheses
 - get-equal-substrings-within-budget
+- goal-parser-interpretation
