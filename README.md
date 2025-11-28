@@ -297,3 +297,4 @@ There are the lists of problems:
 - get-equal-substrings-within-budget
 - goal-parser-interpretation
 - goat-latin
+- greatest-english-letter-in-upper-and-lower-case
