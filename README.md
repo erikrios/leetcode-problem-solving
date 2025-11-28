@@ -296,3 +296,4 @@ There are the lists of problems:
 - generate-parentheses
 - get-equal-substrings-within-budget
 - goal-parser-interpretation
+- goat-latin
