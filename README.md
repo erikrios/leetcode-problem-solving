@@ -298,3 +298,4 @@ There are the lists of problems:
 - goal-parser-interpretation
 - goat-latin
 - greatest-english-letter-in-upper-and-lower-case
+- grid-game
