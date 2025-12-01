@@ -300,3 +300,4 @@ There are the lists of problems:
 - greatest-english-letter-in-upper-and-lower-case
 - grid-game
 - group-anagrams
+- group-the-people-given-the-group-size-they-belong-to
