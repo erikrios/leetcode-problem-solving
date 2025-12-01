@@ -299,3 +299,4 @@ There are the lists of problems:
 - goat-latin
 - greatest-english-letter-in-upper-and-lower-case
 - grid-game
+- group-anagrams
