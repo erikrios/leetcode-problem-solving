@@ -301,3 +301,4 @@ There are the lists of problems:
 - grid-game
 - group-anagrams
 - group-the-people-given-the-group-size-they-belong-to
+- hamming-distance
