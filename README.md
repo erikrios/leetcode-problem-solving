@@ -303,3 +303,4 @@ There are the lists of problems:
 - group-the-people-given-the-group-size-they-belong-to
 - hamming-distance
 - happy-number
+- harshad-number
