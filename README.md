@@ -304,3 +304,4 @@ There are the lists of problems:
 - hamming-distance
 - happy-number
 - harshad-number
+- hash-divided-string
