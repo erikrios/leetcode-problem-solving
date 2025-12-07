@@ -305,3 +305,4 @@ There are the lists of problems:
 - happy-number
 - harshad-number
 - hash-divided-string
+- height-checker
