@@ -306,3 +306,4 @@ There are the lists of problems:
 - harshad-number
 - hash-divided-string
 - height-checker
+- house-robber
