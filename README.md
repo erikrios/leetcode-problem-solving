@@ -307,3 +307,4 @@ There are the lists of problems:
 - hash-divided-string
 - height-checker
 - house-robber
+- how-many-numbers-are-smaller-than-the-current-number
