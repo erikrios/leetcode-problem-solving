@@ -308,3 +308,4 @@ There are the lists of problems:
 - height-checker
 - house-robber
 - how-many-numbers-are-smaller-than-the-current-number
+- image-smoother
