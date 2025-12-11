@@ -310,3 +310,4 @@ There are the lists of problems:
 - how-many-numbers-are-smaller-than-the-current-number
 - image-smoother
 - implement-queue-using-stacks
+- implement-stack-using-queues
