@@ -312,3 +312,4 @@ There are the lists of problems:
 - implement-queue-using-stacks
 - implement-stack-using-queues
 - implement-strstr
+- increasing-decreasing-string
