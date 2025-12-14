@@ -311,3 +311,4 @@ There are the lists of problems:
 - image-smoother
 - implement-queue-using-stacks
 - implement-stack-using-queues
+- implement-strstr
