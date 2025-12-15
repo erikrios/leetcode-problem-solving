@@ -313,3 +313,4 @@ There are the lists of problems:
 - implement-stack-using-queues
 - implement-strstr
 - increasing-decreasing-string
+- increasing-order-search-tree
