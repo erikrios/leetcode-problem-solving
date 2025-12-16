@@ -314,3 +314,4 @@ There are the lists of problems:
 - implement-strstr
 - increasing-decreasing-string
 - increasing-order-search-tree
+- incremental-memory-leak
