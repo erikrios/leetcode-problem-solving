@@ -316,3 +316,4 @@ There are the lists of problems:
 - increasing-order-search-tree
 - incremental-memory-leak
 - insert-delete-getrandom-o1
+- insert-greatest-common-divisors-in-linked-list
