@@ -319,3 +319,4 @@ There are the lists of problems:
 - insert-greatest-common-divisors-in-linked-list
 - insert-into-a-binary-search-tree
 - integer-to-roman
+- intersection-of-multiple-arrays
