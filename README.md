@@ -320,3 +320,4 @@ There are the lists of problems:
 - insert-into-a-binary-search-tree
 - integer-to-roman
 - intersection-of-multiple-arrays
+- intersection-of-two-arrays
