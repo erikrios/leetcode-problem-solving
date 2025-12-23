@@ -321,3 +321,4 @@ There are the lists of problems:
 - integer-to-roman
 - intersection-of-multiple-arrays
 - intersection-of-two-arrays
+- intersection-of-two-linked-lists
