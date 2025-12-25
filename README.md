@@ -322,3 +322,4 @@ There are the lists of problems:
 - intersection-of-multiple-arrays
 - intersection-of-two-arrays
 - intersection-of-two-linked-lists
+- invert-binary-tree
