@@ -324,3 +324,4 @@ There are the lists of problems:
 - intersection-of-two-linked-lists
 - invert-binary-tree
 - island-perimeter
+- iterator-for-combination
