@@ -325,3 +325,4 @@ There are the lists of problems:
 - invert-binary-tree
 - island-perimeter
 - iterator-for-combination
+- jewels-and-stones
