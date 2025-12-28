@@ -326,3 +326,4 @@ There are the lists of problems:
 - island-perimeter
 - iterator-for-combination
 - jewels-and-stones
+- k-inverse-pairs-array
