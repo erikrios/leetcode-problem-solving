@@ -327,3 +327,4 @@ There are the lists of problems:
 - iterator-for-combination
 - jewels-and-stones
 - k-inverse-pairs-array
+- keep-multiplying-found-values-by-two
