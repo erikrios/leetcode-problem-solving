@@ -328,3 +328,4 @@ There are the lists of problems:
 - jewels-and-stones
 - k-inverse-pairs-array
 - keep-multiplying-found-values-by-two
+- keyboard-row
